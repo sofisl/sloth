@@ -226,6 +226,15 @@
     { "language": "nodejs", "repo": "googleapis/nodejs-analytics-data"},
     { "language": "nodejs", "repo": "googleapis/nodejs-analytics-admin"},
     { "language": "nodejs", "repo": "googleapis/nodejs-functions"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-access-approval"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-artifact-registry"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-binary-authorization"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-iam-credentials"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-managed-identities"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-recommendations-engine"},
+    { "language": "nodejs", "repo": "googleapis/nodejs-web-security-scanner"},
+
+
     { "language": "php", "repo": "googleapis/gax-php", "isTeamIssue": true},
     { "language": "php", "repo": "googleapis/google-api-php-client"},
     { "language": "php", "repo": "googleapis/google-api-php-client-services"},
